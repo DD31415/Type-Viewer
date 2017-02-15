@@ -1,0 +1,2 @@
+csc /langversion:5 /unsafe /target:winexe /win32icon:App.ico /o /debug:full /r:ICSharpCode.Decompiler.dll /r:ICSharpCode.NRefactory.CSharp.dll /r:ICSharpCode.NRefactory.dll /r:Mono.Cecil.dll *.cs
+pause
